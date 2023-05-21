@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🧗🏻 I'm currently learning React and CSS-in-JS<br><br>📚 Ask me about JavaScript, HTML, CSS, React, Styled-Components</p>
+<p align="left">🧗🏻 I'm currently learning React and CSS-in-JS and Routes<br><br>📚 Ask me about JavaScript, HTML, CSS, React, Styled-Components</p>
 
 ###
 
