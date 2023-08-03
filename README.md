@@ -7,11 +7,15 @@
   <a href="https://www.instagram.com/renankoji/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
   </a>
+  <a href="https://renankoji-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
 
 <p align="left">I'm front-end developer</p>
+<p align="left">with the object of becoming fullstack developer</p>
 
 ###
 
@@ -19,7 +23,7 @@
 
 ###
 
-<p align="left">🧗🏻 I'm currently learning React and CSS-in-JS and Routes<br><br>📚 Ask me about JavaScript, HTML, CSS, React, Styled-Components</p>
+<p align="left">🧗🏻 I'm currently learning Node and Express<br><br>📚 Ask me about TypeScript, React and NodeJS</p>
 
 ###
 
@@ -30,8 +34,17 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+
+
+  <img width="12" />
 </div>
+
+
+
 
 ###
